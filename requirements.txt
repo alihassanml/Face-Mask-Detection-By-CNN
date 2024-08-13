@@ -1,0 +1,7 @@
+streamlit
+pillow
+tensorflow
+keras
+requests
+numpy
+opencv-python
